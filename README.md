@@ -143,4 +143,4 @@ HND in Information Technology (HNDIT) – SLIATE
 
 ## License
 
-[MIT]
+[MIT](LICENSE)
